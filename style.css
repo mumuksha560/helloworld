@@ -1,0 +1,9 @@
+html,
+ body {
+        height: 100%;
+        font-family: monospace;
+        font-weight: 900;
+        font-size: xxx-large;
+        text-align: center;
+        padding-top: 100px;
+        }
